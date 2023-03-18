@@ -17,3 +17,6 @@ npm run build
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### App link
+(https://6415739e7aee3b1fda8bb6e8--altschool-vue-counter-project.netlify.app/)
